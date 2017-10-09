@@ -1,8 +1,7 @@
 # Fillit
 
-## Fillit
 
-<img src="resources/fillit-finalmark.png" width="350" />
+<img src="https://raw.githubusercontent.com/jraleman/42_Fillit/master/resources/fillit-finalmark.png" width="350" />
 
 This projects seeks in discovering and/or familiarizing a recurring problematic
 in programming: searching for the optimal solution among a huge set of
