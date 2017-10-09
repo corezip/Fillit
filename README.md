@@ -47,8 +47,8 @@ Try running the following:
 
 **Usage message:**
 
-<img src="resources/fillit-screenshot01.png" width="400" />
+<img src="https://raw.githubusercontent.com/jraleman/42_Fillit/master/resources/fillit-screenshot01.png" width="400" />
 
 **Program running:**
 
-<img src="resources/fillit-screenshot02.png" width="400" />
+<img src="https://raw.githubusercontent.com/jraleman/42_Fillit/master/resources/fillit-screenshot02.png" width="400" />
