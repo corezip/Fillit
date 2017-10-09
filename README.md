@@ -35,13 +35,7 @@ To execute the program:
 
 Try running the following:
 
-`./fillit tests/fails/error_5`
-
-`./fillit tests/corrects/valid_5`
-
-`./fillit tests/corrects/valid_17`
-
-`./fillit tests/corrects/valid_19`
+`./fillit x.txt`
 
 ## Screenshots
 
